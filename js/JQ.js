@@ -1,5 +1,5 @@
 $(Document).ready(function(){
     $('button').click(function(){
-        $('p:first').hide()
+        $('ul li:nth-child(1)').hide()
     })
 })
