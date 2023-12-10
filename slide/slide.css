@@ -1,0 +1,12 @@
+.btn{
+    width: 10rem;
+    height: 1rem;
+    background: #333;
+    color: #fff;
+    text-align : center;
+    align-items : center;
+    padding: .7rem;
+    border-radius: .4rem;
+    cursor: pointer;
+    margin: auto;
+}
