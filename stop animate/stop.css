@@ -11,9 +11,9 @@ button{
     width: 10rem;
     height: 2rem;
     padding: .5rem;
-    margin: auto;
     background: purple;
     color: aliceblue;
+    margin: auto;
 
 }
 
