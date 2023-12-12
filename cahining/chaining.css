@@ -1,0 +1,16 @@
+p{
+    width: 6rem;
+    height: 4rem;
+    padding: 2rem;
+    background: rgb(176, 94, 94);
+    margin: auto;
+}
+
+button{
+    width: 5rem;
+    height: 2rem;
+    padding: 1rem;
+    margin: auto;
+    background: khaki;
+    
+}
