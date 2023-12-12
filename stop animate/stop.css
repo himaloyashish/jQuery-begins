@@ -1,0 +1,28 @@
+.click{
+    width: 10rem;
+    height: 2rem;
+    padding: .5rem;
+    background: purple;
+    color: aliceblue;
+    margin: auto;
+}
+
+button{
+    width: 10rem;
+    height: 2rem;
+    padding: .5rem;
+    margin: auto;
+    background: purple;
+    color: aliceblue;
+
+}
+
+.lorem{
+    width: 10rem;
+    height: 3rem;
+    padding: .5rem;
+    margin: auto;
+    background: rgb(181, 131, 181);
+    color: aliceblue;
+    display: none;
+}
