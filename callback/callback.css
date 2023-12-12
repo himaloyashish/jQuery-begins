@@ -1,0 +1,14 @@
+button{
+    width: 4rem;
+    height: 3rem;
+    margin: auto;
+    background: yellowgreen;
+}
+
+p{
+    width: 20rem;
+    height: 3rem;
+    padding: 2rem;
+    margin: auto;
+    background: rgb(152, 164, 130);
+}
