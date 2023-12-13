@@ -1,3 +1,5 @@
+// this is jquery DOM manipulation....
+
 $(document).ready(function(){
     // for getting text
 
@@ -11,6 +13,17 @@ $(document).ready(function(){
     //     alert("text:" + $("p").html())
     // })
 
-    
+
+    // get in put val
+    // $("#value").click(function(){
+    //     alert( $("#name").val() )
+        
+    // })
+
+    $("#btn").click(function(){
+        alert( $("#link").attr("href") )
+        
+    })
+
 
 })
